@@ -28,7 +28,7 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by D
        label="L'art de l'indigotier" 
        description="illustration by Pierre Claude de La Gardette" 
        license="public domain" 
-       url="https://www.biodiversitylibrary.org/pdf4/1676873i00125174.pdf">
+       url="https://www.biodiversitylibrary.org/item/125174#page/135/mode/1up">
 
 ## Map
 
